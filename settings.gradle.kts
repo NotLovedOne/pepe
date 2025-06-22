@@ -1,2 +1,2 @@
 rootProject.name = "pepe"
-include("microne", "microtwo")
+include("microne", "microtwo", "order")
